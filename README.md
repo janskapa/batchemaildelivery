@@ -9,7 +9,7 @@ You need to follow these steps in order for the Batch Delivery script to work.
 
 1. Create a folder in your Gmail, called "BatchedInbox"
 2. Set "Automatically add messages" to `from * and includes label:inbox`
-3. Set "Skip the inboxWhen messages arrive, mark them done" to checked
+3. Set "Skip the inbox. When messages arrive, mark them done" to checked
 
 Once this is done, all your messages will go to this folder instead of your "Inbox". 
 
